@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>male</key>
+	<array>
+		<true/>
+		<false/>
+		<true/>
+		<true/>
+		<true/>
+		<false/>
+		<true/>
+		<false/>
+		<true/>
+		<true/>
+	</array>
+	<key>wrongGirls</key>
+	<array>
+		<string>Beyoncé</string>
+		<string>Nicki Minaj</string>
+		<string>Sandra Lerner</string>
+		<string>Blair Christie</string>
+		<string>Rebecca Jacoby</string>
+		<string>Emma Watson</string>
+		<string>Angel Pay</string>
+		<string>Kristen Kunkel</string>
+	</array>
+	<key>jobs</key>
+	<array>
+		<string>Co-Founder of Cisco</string>
+		<string>Co-Founder of Cisco</string>
+		<string>President and Chief Operating Officer</string>
+		<string>Chairman and Chief Executive Officer</string>
+		<string>Executive Vice President &amp; Chief Financial Officer</string>
+		<string>Senior Vice President and Chief Marketing Officer</string>
+		<string>President, Development and Sales</string>
+		<string>Chief Information Officer and Senior Vice President</string>
+		<string>President, Europe, Middle East, Africa, Russia</string>
+		<string>Executive Vice President and Chief Globalisation Officer</string>
+	</array>
+	<key>pictures</key>
+	<array>
+		<string>lbosak.png</string>
+		<string>sanlern.png</string>
+		<string>gmoore.png</string>
+		<string>jcham.png</string>
+		<string>fcald.png</string>
+		<string>bchrist.png</string>
+		<string>rlloyd.png</string>
+		<string>rjacob.png</string>
+		<string>cded.png</string>
+		<string>wimel.png</string>
+	</array>
+	<key>names</key>
+	<array>
+		<string>Leonard Bosack</string>
+		<string>Sandra Lerner</string>
+		<string>Gary Moore</string>
+		<string>John Chambers</string>
+		<string>Frank Calderoni</string>
+		<string>Blair Christie</string>
+		<string>Robert Lloyd</string>
+		<string>Rebecca Jacoby</string>
+		<string>Chris Dedicoat</string>
+		<string>Wim Elfrink</string>
+	</array>
+	<key>wrongGuys</key>
+	<array>
+		<string>Eric McLee</string>
+		<string>LeBron James</string>
+		<string>Leonard Bosack</string>
+		<string>Gary Moore</string>
+		<string>John Chambers</string>
+		<string>Frank Calderoni</string>
+		<string>Robert Lloyd</string>
+		<string>Patrick Wilson</string>
+		<string>Chris Dedicoat</string>
+		<string>Wim Elfrink</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrip</key>
+	<array>
+		<string>The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.
+The Communication and Collaboration IT organization is responsible for defining the vision, strategy, and execution of the Communication and Collaboration platform at Cisco for its employees, customers, and partners.</string>
+		<string>Connected IT Services (CITS) unifies Business and Technology Architectures by creating one Cisco Architecture (CITEIS Map) accelerating business strategy, delivering new business models and providing industry and Cisco technology leadership on the network as the platform.</string>
+		<string>From quoting through delivery, Cisco Value Chain IT connects people, processes, policies, and systems to accelerate Cisco’s business strategy.  With Identity &amp; Access and Master Data Services, Quote-to-Order, Order Management and Supply Chain, embedded with external business integration, CVC IT delivers competitive advantage for Cisco’s value chain</string>
+		<string>Serves Cisco as a consultative partner, developing programs and policies that support security efforts and align them with Cisco&apos;s business strategy.</string>
+		<string>Globalisation IT provides the key enablers to Cisco&apos;s globalisation vision and provides a platform for Cisco to lead market transitions and to capitalize on growth potential around the world. Our team focuses on unifying core business and technology architectures to deliver innovation, operational excellence, and improved client experience through our Centers of Excellence (CoEs), theatre transformation team (Global East), and global programs.</string>
+		<string>IT CS&amp;S collaborates with development groups inside Cisco in driving innovation and integration of product and systems that enhance customer success. The organization also includes the IT Acquisitions Integration team, which integrates the IT of acquired companies into Cisco and the IT College Program.</string>
+		<string>IT Global Infrastructure Services delivers foundational services and leads architecture, design and implementations for Cisco&apos;s data centers and networks, providing the technology infrastructure for Cisco&apos;s global workforce of more than 65,000 people. It is our responsibility to prepare the network to deliver everything as a service.</string>
+	</array>
+	<key>pix</key>
+	<array>
+		<string>pic0.png</string>
+		<string>pic1.png</string>
+		<string>pic2.png</string>
+		<string>pic3.png</string>
+		<string>pic4.png</string>
+		<string>pic5.png</string>
+		<string>pic6.png</string>
+	</array>
+	<key>acro</key>
+	<array>
+		<string>C&amp;C IT</string>
+		<string>CITS</string>
+		<string>CVC</string>
+		<string>CSPO</string>
+		<string>GIT</string>
+		<string>CS&amp;S</string>
+		<string>GIS</string>
+	</array>
+	<key>vp</key>
+	<array>
+		<string>Sheila Jordan</string>
+		<string>Guillermo Diaz Jr</string>
+		<string>KC Wu</string>
+		<string>John Stewart</string>
+		<string>Venbakm Gopalratnam</string>
+		<string>Lance Perry</string>
+		<string>John Manville</string>
+	</array>
+	<key>deptname</key>
+	<array>
+		<string>Communication and Collaboration IT</string>
+		<string>Connected IT Services</string>
+		<string>Cisco Value Chain IT</string>
+		<string>Corporate Security Programs Organization</string>
+		<string>Gloabalisation IT</string>
+		<string>IT Customer Strategy and Success</string>
+		<string>Global Infrastructure Services</string>
+	</array>
+</dict>
+</plist>
