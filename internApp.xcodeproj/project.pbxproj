@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B207B7917A9625E00AFE0D6 /* Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B72A30F179F964E004747ED /* Cell.xib */; };
 		8B7222F417A8388A006C3E60 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B7222F317A8388A006C3E60 /* data.plist */; };
 		8B72235017A838AC006C3E60 /* 4151.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B7222F617A838AC006C3E60 /* 4151.png */; };
 		8B72235117A838AC006C3E60 /* Accronym Finder Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B7222F717A838AC006C3E60 /* Accronym Finder Icon.png */; };
@@ -564,6 +565,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B207B7917A9625E00AFE0D6 /* Cell.xib in Resources */,
 				8B7223AA17A83938006C3E60 /* Storyboard2.storyboard in Resources */,
 				8B7223AB17A83938006C3E60 /* gameInfo.plist in Resources */,
 				8B7223AC17A83938006C3E60 /* MainStoryboard.storyboard in Resources */,
